@@ -23,6 +23,7 @@ body{
 }
 
 .wrap-col{
+  
     padding: 10px 20px;
 }
 .col-1-3{
@@ -42,13 +43,24 @@ body{
 }
 
 .col-1-2{
-    width: 40%;
+    width: 50%;
     
 }
 
-.col-2-2{
-    width: 60%;
+.flex-box{
+    width: 100%;
 }
+
+.wrap-box{
+
+    width: 100%;
+}
+
+.contact-form{
+    padding: 10px;
+}
+
+
 
 
 
